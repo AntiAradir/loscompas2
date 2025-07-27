@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "forest": "2025-07-27 21:28:55 +0000",
       "taiga": "2025-07-27 20:30:04 +0000",
       "taiga_hills": "2025-07-27 20:35:32 +0000"
     },
