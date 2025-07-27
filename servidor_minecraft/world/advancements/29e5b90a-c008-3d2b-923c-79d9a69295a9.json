@@ -41,6 +41,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:17:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone": {
     "criteria": {
       "has_vine": "2025-07-27 20:31:51 +0000"
@@ -62,6 +68,12 @@
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2025-07-27 22:06:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:17:26 +0000"
     },
     "done": true
   },
@@ -89,9 +101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:17:26 +0000"
+    },
+    "done": true
+  },
   "cfm:root": {
     "criteria": {
       "tick": "2025-07-27 20:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:17:26 +0000"
     },
     "done": true
   },
@@ -142,6 +166,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-27 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-27 22:17:26 +0000"
     },
     "done": true
   },
