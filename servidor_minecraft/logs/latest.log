@@ -1,0 +1,579 @@
+[20:28:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:28:48] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:28:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[20:28:48] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[20:28:48] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_452, running on Linux:amd64:6.8.0-1030-azure, installed at /usr/lib/jvm/java-8-openjdk-amd64/jre
+[20:28:48] [main/INFO] [FML]: Searching /workspaces/loscompas2/servidor_minecraft/./mods for mods
+[20:28:48] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [1.12.2] SecurityCraft v1.10.jar
+[20:28:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.71_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:28:48] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:28:48] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[20:28:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.87_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:28:48] [main/WARN] [FML]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[20:28:48] [main/WARN] [FML]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
+[20:28:48] [main/WARN] [FML]: The coremod ObfuscatePlugin (com.mrcrayfish.obfuscate.asm.ObfuscatePlugin) is not signed!
+[20:28:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in secretroomsmod-1.12.2-5.6.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:28:48] [main/WARN] [FML]: The coremod SecretRoomsMod-Core (com.wynprice.secretroomsmod.core.SecretRoomsCore) is not signed!
+[20:28:48] [main/INFO] [FML]: [SecretRoomsMod-Core] Core loaded
+[20:28:48] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in techguns-1.12.2-2.0.2.0_pre3.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[20:28:48] [main/WARN] [FML]: The coremod Techguns Core (techguns.core.TechgunsFMLPlugin) is not signed!
+[20:28:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:28:48] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[20:28:48] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.3 Source=file:/workspaces/loscompas2/servidor_minecraft/./mods/%5B1.12.2%5D%20SecurityCraft%20v1.10.jar Service=LaunchWrapper Env=SERVER
+[20:28:48] [main/WARN] [FML]: The coremod SecurityCraftLoadingPlugin (net.geforcemods.securitycraft.SecurityCraftLoadingPlugin) is not signed!
+[20:28:48] [main/INFO] [mixin]: Compatibility level set to JAVA_8
+[20:28:48] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:28:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:28:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[20:28:48] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:50] [main/INFO] [FML]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[20:28:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:50] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[20:28:50] [main/INFO] [mixin]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@1a411233
+[20:28:50] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[20:28:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:51] [main/INFO] [FML]: [SecretRoomsTransformer] Registered
+[20:28:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[20:28:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:28:51] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:28:51] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[20:28:51] [main/INFO] [LaunchWrapper]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[20:28:51] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayerMP ...
+[20:28:51] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
+[20:28:51] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.ITickable ...
+[20:28:51] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
+[20:28:52] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayer ...
+[20:28:52] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
+[20:28:52] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.server.MinecraftServer}
+[20:28:52] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.math.AxisAlignedBB ...
+[20:28:52] [main/INFO] [FML]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.state.BlockStateContainer$StateImplementation
+[20:28:52] [main/INFO] [FML]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.state.BlockStateContainer$StateImplementation
+[20:28:52] [main/INFO] [FML]: [SecretRoomsTransformer] Running Transform on net.minecraft.block.BlockBreakable
+[20:28:52] [main/INFO] [FML]: [SecretRoomsTransformer] Finished Transform on: net.minecraft.block.BlockBreakable
+[20:28:54] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.player.EntityPlayerMP ...
+[20:28:54] [main/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
+[20:28:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting minecraft server version 1.12.2
+[20:28:56] [Server thread/INFO] [FML]: MinecraftForge v14.23.5.2860 Initialized
+[20:28:56] [Server thread/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[20:28:56] [Server thread/INFO] [FML]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[20:28:56] [Server thread/INFO] [FML]: Replaced 1227 ore ingredients
+[20:28:56] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraftforge.common.ForgeHooks ...
+[20:28:56] [Server thread/INFO] [FML]: Searching /workspaces/loscompas2/servidor_minecraft/./mods for mods
+[20:28:57] [Server thread/WARN] [FML]: Mod securitycraft is missing the required element 'version' and a version.properties file could not be found. Falling back to metadata version v1.10
+[20:28:58] [Server thread/INFO] [FML]: Disabling mod ptrmodellib it is client side only.
+[20:28:58] [Server thread/INFO] [FML]: Forge Mod Loader has identified 35 mods to load
+[20:28:58] [Server thread/WARN] [FML]: Missing English translation for FML: assets/fml/lang/en_us.lang
+[20:28:58] [Server thread/WARN] [FML]: Missing English translation for extendedrenderer: assets/extendedrenderer/lang/en_us.lang
+[20:28:58] [Server thread/WARN] [FML]: Missing English translation for configmod: assets/configmod/lang/en_us.lang
+[20:28:58] [Server thread/WARN] [FML]: Missing English translation for lunatriuscore: assets/lunatriuscore/lang/en_us.lang
+[20:28:58] [Server thread/WARN] [FML]: Missing English translation for worldedit: assets/worldedit/lang/en_us.lang
+[20:28:58] [Server thread/INFO] [FML]: FML has found a non-mod file PTRLib-1.0.5.jar in your mods directory. It will now be injected into your classpath. This could severe stability issues, it should be removed if possible.
+[20:28:58] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, obfuscate, srm-hooks, techguns_core, securitycraft, blockcraftery, chiselsandbits, extendedrenderer, coroutil, configmod, creativecore, customnpcs, props, elevatorid, motnt, cfm, hbm, jjmeteor, littletiles, lunatriuscore, mcwdoors, mcwfurnitures, minetraps, moreplayermodels, mysticallib, secretroomsmod, techguns, vehicle, weather2, worldedit] at CLIENT
+[20:28:58] [Server thread/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, creativecoredummy, littletilescore, obfuscate, srm-hooks, techguns_core, securitycraft, blockcraftery, chiselsandbits, extendedrenderer, coroutil, configmod, creativecore, customnpcs, props, elevatorid, motnt, cfm, hbm, jjmeteor, littletiles, lunatriuscore, mcwdoors, mcwfurnitures, minetraps, moreplayermodels, mysticallib, secretroomsmod, techguns, vehicle, weather2, worldedit] at SERVER
+[20:28:58] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.PacketBuffer ...
+[20:29:00] [Server thread/INFO] [FML]: Processing ObjectHolder annotations
+[20:29:00] [Server thread/INFO] [FML]: Found 1292 ObjectHolder annotations
+[20:29:00] [Server thread/INFO] [FML]: Identifying ItemStackHolder annotations
+[20:29:00] [Server thread/INFO] [FML]: Found 0 ItemStackHolder annotations
+[20:29:00] [Server thread/INFO] [FML]: Configured a dormant chunk cache size of 0
+[20:29:00] [Forge Version Check/INFO] [forge.VersionCheck]: [jjmeteor] Starting version check at https://raw.githubusercontent.com/JdiJack/JJ-Meteor/master/update.json
+[20:29:00] [Server thread/INFO] [Obfuscate]: Successfully injected SyncedPlayerData capability
+[20:29:01] [Forge Version Check/INFO] [forge.VersionCheck]: [jjmeteor] Found status: UP_TO_DATE Target: null
+[20:29:01] [Forge Version Check/INFO] [forge.VersionCheck]: [secretroomsmod] Starting version check at http://www.wynprice.com/update_jsons/secretroomsmod.json
+[20:29:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[20:29:01] [Forge Version Check/INFO] [forge.VersionCheck]: [forge] Found status: AHEAD Target: null
+[20:29:01] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[20:29:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitychiseled.tesr`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:02] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `mod.chiselsandbits.tileentitybittank`, expected `chiselsandbits`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:02] [Forge Version Check/INFO] [forge.VersionCheck]: [securitycraft] Found status: UP_TO_DATE Target: null
+[20:29:02] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Starting version check at https://raw.githubusercontent.com/pWn3d1337/Techguns2/master/update.json
+[20:29:02] [Forge Version Check/INFO] [forge.VersionCheck]: [techguns] Found status: AHEAD Target: null
+[20:29:02] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Original locale was en, switching to Locale.US
+[20:29:02] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale is now en_US
+[20:29:02] [Server thread/INFO] [com.mia.craftstudio.CSPack]: Locale was restored to en
+[20:29:17] [Server thread/INFO] [hbm]: Searching for new versions...
+[20:29:17] [Server thread/INFO] [hbm]: Found version hbm-1.8.4a-G
+[20:29:17] [Server thread/INFO] [hbm]: Version checker ended.
+[20:29:17] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `hbm`, expected `hbm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tornado_siren_manual`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `wind_vane`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_forecast`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_machine`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `weather_deflector`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `anemometer`, expected `weather2`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileredstoneblock`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tileblockanvil`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilemailbox`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilewaypoint`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripted`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcscripteddoor`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcbuilder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpccopy`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `tilenpcborder`, expected `customnpcs`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:19] [Server thread/INFO] [FML]: Applying holder lookups
+[20:29:19] [Server thread/INFO] [FML]: Holder lookups applied
+[20:29:20] [Server thread/INFO] [FML]: Applying holder lookups
+[20:29:20] [Server thread/INFO] [FML]: Holder lookups applied
+[20:29:20] [Server thread/INFO] [FML]: Applying holder lookups
+[20:29:20] [Server thread/INFO] [FML]: Holder lookups applied
+[20:29:20] [Server thread/INFO] [FML]: Applying holder lookups
+[20:29:20] [Server thread/INFO] [FML]: Holder lookups applied
+[20:29:20] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:29:20] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Loading properties
+[20:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Default game type: SURVIVAL
+[20:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Generating keypair
+[20:29:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Starting Minecraft server on *:25565
+[20:29:20] [Server thread/INFO] [net.minecraft.network.NetworkSystem]: Using epoll channel type
+[20:29:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20:29:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: The server will make no attempt to authenticate usernames. Beware.
+[20:29:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20:29:20] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer]: To change this, set "online-mode" to "true" in the server.properties file.
+[20:29:21] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual_alt
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[20:29:21] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:techguns_manual
+com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$init$15(CraftingHelper.java:538) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[20:29:21] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap_alt
+com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[20:29:21] [Server thread/ERROR] [FML]: Parsing error loading recipe techguns:shishkebap
+com.google.gson.JsonSyntaxException: Unknown item 'techguns:shishkebap'
+	at net.minecraftforge.common.crafting.CraftingHelper.getItemStack(CraftingHelper.java:214) ~[CraftingHelper.class:?]
+	at net.minecraftforge.oredict.ShapedOreRecipe.factory(ShapedOreRecipe.java:254) ~[ShapedOreRecipe.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.getRecipe(CraftingHelper.java:416) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.lambda$loadRecipes$22(CraftingHelper.java:723) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.findFiles(CraftingHelper.java:833) ~[CraftingHelper.class:?]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:688) ~[CraftingHelper.class:?]
+	at java.util.ArrayList.forEach(ArrayList.java:1259) [?:1.8.0_452]
+	at net.minecraftforge.common.crafting.CraftingHelper.loadRecipes(CraftingHelper.java:633) [CraftingHelper.class:?]
+	at net.minecraftforge.fml.common.Loader.initializeMods(Loader.java:747) [Loader.class:?]
+	at net.minecraftforge.fml.server.FMLServerHandler.finishServerLoading(FMLServerHandler.java:108) [FMLServerHandler.class:?]
+	at net.minecraftforge.fml.common.FMLCommonHandler.onServerStarted(FMLCommonHandler.java:338) [FMLCommonHandler.class:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServer.java:219) [nz.class:?]
+	at net.minecraft.server.MinecraftServer.run(MinecraftServer.java:486) [MinecraftServer.class:?]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_452]
+[20:29:22] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1384]: Memory usage before: 1322433232
+[20:29:22] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_caesium@32767 = 1xitem.ingot_caesium@0
+[20:29:22] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_lanthanium@32767 = 1xitem.ingot_lanthanium@0
+[20:29:22] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_ra226@32767 = 1xitem.ingot_ra226@0
+[20:29:22] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_sr90@32767 = 1xitem.ingot_sr90@0
+[20:29:22] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_caesium@32767 = 1xitem.ingot_caesium@0
+[20:29:22] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_dineutronium@32767 = 1xitem.ingot_dineutronium@0
+[20:29:22] [Server thread/INFO] [FML]: Ignored smelting recipe with conflicting input: 1xitem.powder_asbestos@32767 = 1xitem.ingot_asbestos@0
+[20:29:22] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:craftingRegister:1389]: Memory usage after: 1104587648
+[20:29:22] [Server thread/INFO] [STDOUT]: [com.hbm.main.ModEventHandler:doesArrayContain:1410]: On Recipe Register
+[20:29:22] [Server thread/INFO] [FML]: Applying holder lookups
+[20:29:22] [Server thread/INFO] [FML]: Holder lookups applied
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: CustomNPC Permissions available:
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.blocks
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.edit.villager
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.bank
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.dialog
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.faction
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.linked
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.naturalspawn
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.playerdata
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.quest
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.recipe
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.global.transport
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.advanced
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.ai
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.clone
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.create
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.delete
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.display
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.freeze
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.gui
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.inventory
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.reset
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.npc.stats
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.scenes
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.soulstone.all
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.create
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.spawner.mob
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.mounter
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.nbtbook
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.pather
+[20:29:25] [Server thread/INFO] [noppes.npcs.CustomNpcs]: customnpcs.tool.scripter
+[20:29:25] [Server thread/INFO] [STDOUT]: [noppes.npcs.CustomNpcs:load:258]: Markov dictionaries loaded!
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmoven`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfridge`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmfreezer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbedsidecabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmailbox`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcomputer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmprinter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmstereo`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmpresent`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbin`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwallcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmbath`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmshowerhead`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmplate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcouch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtoaster`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmchoppingboard`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmblender`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmicrowave`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmwashingmachine`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdishwasher`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcabinetkitchen`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcup`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcookiejar`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtree`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmirror`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmgrill`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmeski`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdoormat`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmcrate`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmlightswitch`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmceilingfan`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdeskcabinet`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmmodernslidingdoor`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmdigitalclock`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmtv`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounter`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `cfmkitchencounterdrawer`, expected `cfm`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentity`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityticking`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentityrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `littletilestileentitytickingrendered`, expected `littletiles`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentityinfomationholder`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretchest`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretdispenser`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretdaylightsensor`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/WARN] [FML]: Potentially Dangerous alternative prefix `minecraft` for name `secretroomsmodtileentitysecretpressureplate`, expected `secretroomsmod`. This could be a intended override, but in most cases indicates a broken mod.
+[20:29:25] [Server thread/INFO] [FML]: Injecting itemstacks
+[20:29:25] [Server thread/INFO] [FML]: Itemstack injection complete
+[20:29:26] [Server thread/INFO] [STDOUT]: [com.hbm.handler.crt.NTMCraftTweaker:applyPostInitActions:17]: CraftTweakerAPI not found
+[20:29:26] [LunatriusCore Version Check/ERROR] [lunatriuscore]: Something went wrong!
+java.lang.NullPointerException: null
+	at com.github.lunatrius.core.version.VersionChecker$1.process(VersionChecker.java:65) ~[VersionChecker$1.class:?]
+	at com.github.lunatrius.core.version.VersionChecker$1.run(VersionChecker.java:58) [VersionChecker$1.class:?]
+[20:29:26] [Server thread/INFO] [worldedit]: WorldEdit for Forge (version 6.1.10) is loaded
+[20:29:27] [Server thread/INFO] [FML]: Forge Mod Loader has successfully loaded 35 mods
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded workbench model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded importer model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded exporter model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded particle_emitter model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded blankomatic model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable1 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable4 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_cable16 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output1 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output4 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_output16 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input1 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input4 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded single_input16 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded signal_display_16 model
+[20:29:27] [Server thread/INFO] [STDOUT]: [com.creativemd.littletiles.common.structure.type.premade.LittleStructurePremade:reloadPremadeStructures:85]: Loaded structure_builder model
+[20:29:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Preparing level "world"
+[20:29:27] [Server thread/INFO] [FML]: Injecting existing registry data into this server instance
+[20:29:29] [Server thread/INFO] [FML]: Applying holder lookups
+[20:29:29] [Server thread/INFO] [FML]: Holder lookups applied
+[20:29:29] [Server thread/INFO] [FML]: Loading dimension 0 (world) (net.minecraft.server.dedicated.DedicatedServer@6118ab34)
+[20:29:29] [Netty Epoll Server IO #1/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[20:29:30] [Server thread/INFO] [net.minecraft.advancements.AdvancementList]: Loaded 545 advancements
+[20:29:30] [Server thread/INFO] [FML]: Loading dimension -1 (world) (net.minecraft.server.dedicated.DedicatedServer@6118ab34)
+[20:29:30] [Server thread/INFO] [FML]: Loading dimension 1 (world) (net.minecraft.server.dedicated.DedicatedServer@6118ab34)
+[20:29:30] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing start region for level 0
+[20:29:30] [Netty Epoll Server IO #2/INFO] [FML]: Disconnecting Player: Server is still starting! Please wait before reconnecting.
+[20:29:30] [Server thread/INFO] [coroutil]: CoroUtil detected Infernal Mobs Not Installed for use
+[20:29:31] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 18%
+[20:29:32] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Preparing spawn area: 93%
+[20:29:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Done (5.213s)! For help, type "help" or "?"
+[20:29:32] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[20:29:32] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[20:29:32] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[20:29:32] [Server thread/WARN] [net.minecraft.network.datasync.EntityDataManager]: defineId called for: class net.minecraft.entity.player.EntityPlayer from class techguns.capabilities.TGExtendedPlayer
+[20:29:32] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
+[20:29:32] [Server thread/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.util.ITickable ...
+[20:29:32] [Server thread/INFO] [coroutil]: CoroUtil being reinitialized
+[20:29:35] [Server thread/INFO] [FML]: Unloading dimension -1
+[20:29:35] [Server thread/INFO] [FML]: Unloading dimension 1
+[20:29:35] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2763ms behind, skipping 55 tick(s)
+[20:29:36] [Server thread/INFO] [coroutil]: CoroUtil detected Tough As Nails Seasons Not Installed for use
+[20:29:36] [Server thread/INFO] [coroutil]: CoroUtil detected Serene Seasons Not Installed for use
+[20:29:45] [Netty Epoll Server IO #1/INFO] [STDOUT]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NettyCompressionDecoder ...
+[20:29:45] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[20:29:45] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 58 mods : extendedrenderer@v1.0,mixinbooter@10.6,renderlib@1.4.5,creativecoredummy@1.0.0,wi-zoom@1.0,configmod@v1.0,loliasm@5.28,techguns_core@1.12.2-1.0,mcp@9.42,clumps@3.1.2,placebo@1.6.0,weather2@1.12.1-2.6.12,surge@2.0.77,foamfixcore@7.7.4,secretroomsmod@5.6.4,alfheim@1.6,mcwdoors@1.3,normalasm@5.28,minetraps@1.0.4,props@2.6.3.7,dynview@1.3,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,jjmeteor@1.0.10,redcore@0.7-Dev-1,minecraft@1.12.2,stackie@1.6.0.48,ptrmodellib@1.0.5,silentfullbright@1.0,creativecore@1.10.0,vehicle@0.44.1,srm-hooks@1.12.2-1.0.0,fermiumbooter@1.3.1,littletilescore@1.0.0,lunatriuscore@1.2.0.42,moreplayermodels@1.12.2,fastbench@1.7.4,securitycraft@v1.10,blockcraftery@1.12.2-1.3.1,performant@1.12.2-1.5,entityculling@@VER@,elevatorid@1.3.14,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,customnpcs@1.12,coroutil@1.12.1-1.2.37,worldedit@6.1.10,fastfurnace@1.3.1,cfm@6.3.0,motnt@1.0.1,mcwfurnitures@1.0.1,foamfix@@VERSION@,chiselsandbits@14.33,littletiles@1.5.0,techguns@2.0.2.0
+[20:29:49] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:29:49] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: AntiAlther[/127.108.212.80:49295] logged in with entity id 433 at (144.5, 76.0, 225.5)
+[20:29:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: AntiAlther joined the game
+[20:29:57] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[20:29:57] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 58 mods : extendedrenderer@v1.0,mixinbooter@10.6,renderlib@1.4.5,creativecoredummy@1.0.0,wi-zoom@1.0,configmod@v1.0,loliasm@5.28,techguns_core@1.12.2-1.0,mcp@9.42,clumps@3.1.2,placebo@1.6.0,weather2@1.12.1-2.6.12,surge@2.0.77,foamfixcore@7.7.4,secretroomsmod@5.6.4,alfheim@1.6,mcwdoors@1.3,normalasm@5.28,minetraps@1.0.4,props@2.6.3.7,dynview@1.3,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,jjmeteor@1.0.10,redcore@0.7-Dev-1,minecraft@1.12.2,stackie@1.6.0.48,ptrmodellib@1.0.5,silentfullbright@1.0,creativecore@1.10.0,vehicle@0.44.1,srm-hooks@1.12.2-1.0.0,fermiumbooter@1.3.1,littletilescore@1.0.0,lunatriuscore@1.2.0.42,moreplayermodels@1.12.2,fastbench@1.7.4,securitycraft@v1.10,blockcraftery@1.12.2-1.3.1,performant@1.12.2-1.5,entityculling@@VER@,elevatorid@1.3.14,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,customnpcs@1.12,coroutil@1.12.1-1.2.37,worldedit@6.1.10,fastfurnace@1.3.1,cfm@6.3.0,motnt@1.0.1,mcwfurnitures@1.0.1,foamfix@@VERSION@,chiselsandbits@14.33,littletiles@1.5.0,techguns@2.0.2.0
+[20:30:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Opped AntiAlther
+[20:30:04] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:30:04] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: MewingMan[/127.133.196.125:33423] logged in with entity id 454 at (148.5, 76.0, 226.5)
+[20:30:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan joined the game
+[20:30:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [5, 0] in dimension 0 (overworld) while populating chunk [5, 1], causing cascading worldgen lag.
+[20:30:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Creative Mode]
+[20:30:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Turned on the whitelist]
+[20:30:32] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [21, 23] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:32] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [22, 22] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [22, 23] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [23, 23] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [24, 23] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [23, 22] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [24, 22] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [23, 21] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [23, 20] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [23, 19] in dimension 0 (overworld) while populating chunk [23, 20], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [24, 21] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:33] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [24, 20] in dimension 0 (overworld) while populating chunk [22, 21], causing cascading worldgen lag.
+[20:30:33] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:30:34] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: AntiAlther moved too quickly! 8.227884731643087,5.475000217556953,-2.2311512370256708
+[20:30:34] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2087ms behind, skipping 41 tick(s)
+[20:31:32] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 28272ms behind, skipping 565 tick(s)
+[20:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set AntiAlther's spawn point to (163, 113, 213)]
+[20:33:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set MewingMan's spawn point to (163, 113, 213)]
+[20:33:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Turned off the whitelist]
+[20:33:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AntiAlther> julian
+[20:33:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AntiAlther> haste tu sirvi
+[20:33:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AntiAlther> void a comer
+[20:33:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AntiAlther> :D
+[20:33:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MewingMan> sfgnbkdjgkd
+[20:33:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MewingMan> puto enano
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 5] in dimension 0 (overworld) while populating chunk [-4, 6], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 4] in dimension 0 (overworld) while populating chunk [-5, 5], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 4] in dimension 0 (overworld) while populating chunk [-5, 4], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 6] in dimension 0 (overworld) while populating chunk [-4, 7], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 5] in dimension 0 (overworld) while populating chunk [-5, 6], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 4] in dimension 0 (overworld) while populating chunk [-6, 5], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 3] in dimension 0 (overworld) while populating chunk [-7, 4], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 3] in dimension 0 (overworld) while populating chunk [-7, 3], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 2] in dimension 0 (overworld) while populating chunk [-8, 3], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 2] in dimension 0 (overworld) while populating chunk [-8, 2], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 1] in dimension 0 (overworld) while populating chunk [-8, 2], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-4, 14] in dimension 0 (overworld) while populating chunk [-4, 15], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 14] in dimension 0 (overworld) while populating chunk [-4, 14], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 15] in dimension 0 (overworld) while populating chunk [-4, 15], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 16] in dimension 0 (overworld) while populating chunk [-4, 17], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 15] in dimension 0 (overworld) while populating chunk [-5, 16], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 14] in dimension 0 (overworld) while populating chunk [-6, 15], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 14] in dimension 0 (overworld) while populating chunk [-6, 14], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-4, 11] in dimension 0 (overworld) while populating chunk [-4, 12], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 11] in dimension 0 (overworld) while populating chunk [-4, 11], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-4, 10] in dimension 0 (overworld) while populating chunk [-4, 11], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-4, 9] in dimension 0 (overworld) while populating chunk [-4, 10], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 9] in dimension 0 (overworld) while populating chunk [-4, 9], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-4, 8] in dimension 0 (overworld) while populating chunk [-4, 10], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 8] in dimension 0 (overworld) while populating chunk [-4, 8], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 8] in dimension 0 (overworld) while populating chunk [-5, 8], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 7] in dimension 0 (overworld) while populating chunk [-6, 8], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 7] in dimension 0 (overworld) while populating chunk [-6, 7], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 6] in dimension 0 (overworld) while populating chunk [-7, 7], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:12] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 6] in dimension 0 (overworld) while populating chunk [-7, 6], causing cascading worldgen lag.
+[20:34:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 5] in dimension 0 (overworld) while populating chunk [-8, 6], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 5] in dimension 0 (overworld) while populating chunk [-8, 5], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 4] in dimension 0 (overworld) while populating chunk [-9, 5], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-10, 4] in dimension 0 (overworld) while populating chunk [-9, 4], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-10, 3] in dimension 0 (overworld) while populating chunk [-10, 4], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 3] in dimension 0 (overworld) while populating chunk [-9, 5], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 4] in dimension 0 (overworld) while populating chunk [-8, 6], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 5] in dimension 0 (overworld) while populating chunk [-7, 7], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 6] in dimension 0 (overworld) while populating chunk [-6, 8], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 7] in dimension 0 (overworld) while populating chunk [-4, 8], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 10] in dimension 0 (overworld) while populating chunk [-4, 11], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 19] in dimension 0 (overworld) while populating chunk [-4, 20], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 18] in dimension 0 (overworld) while populating chunk [-5, 19], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 18] in dimension 0 (overworld) while populating chunk [-5, 18], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 17] in dimension 0 (overworld) while populating chunk [-6, 18], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 17] in dimension 0 (overworld) while populating chunk [-6, 17], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 16] in dimension 0 (overworld) while populating chunk [-7, 17], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 16] in dimension 0 (overworld) while populating chunk [-7, 16], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 15] in dimension 0 (overworld) while populating chunk [-8, 16], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 15] in dimension 0 (overworld) while populating chunk [-8, 15], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 14] in dimension 0 (overworld) while populating chunk [-9, 15], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-10, 14] in dimension 0 (overworld) while populating chunk [-9, 14], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-10, 13] in dimension 0 (overworld) while populating chunk [-9, 14], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-11, 13] in dimension 0 (overworld) while populating chunk [-10, 13], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-11, 12] in dimension 0 (overworld) while populating chunk [-10, 13], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-12, 12] in dimension 0 (overworld) while populating chunk [-11, 12], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-12, 11] in dimension 0 (overworld) while populating chunk [-11, 12], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-13, 11] in dimension 0 (overworld) while populating chunk [-12, 11], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-13, 10] in dimension 0 (overworld) while populating chunk [-12, 11], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-14, 10] in dimension 0 (overworld) while populating chunk [-13, 10], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-14, 9] in dimension 0 (overworld) while populating chunk [-13, 10], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 14] in dimension 0 (overworld) while populating chunk [-8, 16], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 13] in dimension 0 (overworld) while populating chunk [-8, 14], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 13] in dimension 0 (overworld) while populating chunk [-8, 14], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 12] in dimension 0 (overworld) while populating chunk [-9, 13], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-10, 12] in dimension 0 (overworld) while populating chunk [-9, 13], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-10, 11] in dimension 0 (overworld) while populating chunk [-10, 12], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-11, 11] in dimension 0 (overworld) while populating chunk [-10, 12], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-11, 10] in dimension 0 (overworld) while populating chunk [-11, 11], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-12, 10] in dimension 0 (overworld) while populating chunk [-11, 11], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-12, 9] in dimension 0 (overworld) while populating chunk [-12, 10], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-13, 9] in dimension 0 (overworld) while populating chunk [-12, 10], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-13, 8] in dimension 0 (overworld) while populating chunk [-13, 9], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 15] in dimension 0 (overworld) while populating chunk [-7, 17], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 16] in dimension 0 (overworld) while populating chunk [-6, 18], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:13] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 17] in dimension 0 (overworld) while populating chunk [-5, 19], causing cascading worldgen lag.
+[20:34:13] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 20] in dimension 0 (overworld) while populating chunk [-4, 21], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 19] in dimension 0 (overworld) while populating chunk [-5, 20], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-7, 18] in dimension 0 (overworld) while populating chunk [-6, 19], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-8, 17] in dimension 0 (overworld) while populating chunk [-7, 18], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-9, 16] in dimension 0 (overworld) while populating chunk [-8, 17], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-10, 15] in dimension 0 (overworld) while populating chunk [-9, 16], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-11, 14] in dimension 0 (overworld) while populating chunk [-10, 15], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-12, 13] in dimension 0 (overworld) while populating chunk [-11, 14], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-13, 12] in dimension 0 (overworld) while populating chunk [-12, 13], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-14, 11] in dimension 0 (overworld) while populating chunk [-13, 12], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-11, 15] in dimension 0 (overworld) while populating chunk [-10, 15], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-12, 14] in dimension 0 (overworld) while populating chunk [-11, 15], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-13, 13] in dimension 0 (overworld) while populating chunk [-12, 14], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-14, 12] in dimension 0 (overworld) while populating chunk [-13, 13], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:34:14] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-15, 11] in dimension 0 (overworld) while populating chunk [-14, 12], causing cascading worldgen lag.
+[20:34:14] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:37:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan was shot by Zombie Miner
