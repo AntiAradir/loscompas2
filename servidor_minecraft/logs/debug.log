@@ -31661,3 +31661,128 @@ java.lang.NullPointerException: null
 
 [20:38:19] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 50 times.
 
+[20:38:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:09] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 55 times.
+
+[20:39:09] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 55 times.
+
+[20:39:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan was shot by Zombie Miner
+[20:39:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:39:59] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 60 times.
+
+[20:39:59] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 60 times.
+
+[20:40:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:40:49] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 65 times.
+
+[20:40:49] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 65 times.
+
+[20:41:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:41:39] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 70 times.
+
+[20:41:39] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 70 times.
+
+[20:41:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:42:29] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 75 times.
+
+[20:42:29] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 75 times.
+
+[20:42:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:43:19] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 80 times.
+
+[20:43:19] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 80 times.
+
+[20:43:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:44:09] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 85 times.
+
+[20:44:09] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 85 times.
+
+[20:44:14] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:44:59] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 90 times.
+
+[20:44:59] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 90 times.
+
+[20:44:59] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:45:12] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:45:12] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:45:12] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:45:12] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:45:12] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:45:12] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[20:45:12] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 58 mods : extendedrenderer@v1.0,mixinbooter@10.6,renderlib@1.4.5,creativecoredummy@1.0.0,wi-zoom@1.0,configmod@v1.0,loliasm@5.28,techguns_core@1.12.2-1.0,mcp@9.42,clumps@3.1.2,placebo@1.6.0,weather2@1.12.1-2.6.12,surge@2.0.77,foamfixcore@7.7.4,secretroomsmod@5.6.4,alfheim@1.6,mcwdoors@1.3,normalasm@5.28,minetraps@1.0.4,props@2.6.3.7,dynview@1.3,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,jjmeteor@1.0.10,redcore@0.7-Dev-1,minecraft@1.12.2,stackie@1.6.0.48,ptrmodellib@1.0.5,silentfullbright@1.0,creativecore@1.10.0,vehicle@0.44.1,srm-hooks@1.12.2-1.0.0,fermiumbooter@1.3.1,littletilescore@1.0.0,lunatriuscore@1.2.0.42,moreplayermodels@1.12.2,fastbench@1.7.4,securitycraft@v1.10,blockcraftery@1.12.2-1.3.1,performant@1.12.2-1.5,entityculling@@VER@,elevatorid@1.3.14,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,customnpcs@1.12,coroutil@1.12.1-1.2.37,worldedit@6.1.10,fastfurnace@1.3.1,cfm@6.3.0,motnt@1.0.1,mcwfurnitures@1.0.1,foamfix@@VERSION@,chiselsandbits@14.33,littletiles@1.5.0,techguns@2.0.2.0
+[20:45:12] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[20:45:12] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:45:12] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[20:45:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:45:16] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[20:45:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:45:16] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:45:16] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mc_Abel[/127.202.151.37:42281] logged in with entity id 20624 at (143.5, 77.0, 232.5)
+[20:45:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel joined the game
+[20:45:16] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:45:44] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:45:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set the time to 0]
+[20:45:49] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 95 times.
+
+[20:45:49] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 95 times.
+
+[20:45:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Changing to clear weather]
+[20:46:21] [Server thread/INFO] [STDOUT]: [weather2.block.BlockWeatherMachine:func_180649_a:72]: clicked
+[20:46:29] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:46:39] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 100 times.
+
+[20:46:39] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 100 times.
+
+[20:46:43] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: MewingMan moved too quickly! -4.654592885961449,0.1647732818260721,-8.938765285165175
+[20:46:43] [Server thread/WARN] [net.minecraft.server.MinecraftServer]: Can't keep up! Did the system time change, or is the server overloaded? Running 2886ms behind, skipping 57 tick(s)
+[20:46:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan has made the advancement [Acquire Hardware]
+[20:47:03] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 21] in dimension 0 (overworld) while populating chunk [-5, 21], causing cascading worldgen lag.
+[20:47:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:47:03] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 20] in dimension 0 (overworld) while populating chunk [-5, 21], causing cascading worldgen lag.
+[20:47:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:47:03] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 20] in dimension 0 (overworld) while populating chunk [-5, 21], causing cascading worldgen lag.
+[20:47:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:47:03] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 19] in dimension 0 (overworld) while populating chunk [-6, 20], causing cascading worldgen lag.
+[20:47:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:47:03] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-5, 19] in dimension 0 (overworld) while populating chunk [-5, 21], causing cascading worldgen lag.
+[20:47:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:47:03] [Server thread/WARN] [FML]: HBM's Nuclear Tech Mod loaded a new chunk [-6, 19] in dimension 0 (overworld) while populating chunk [-5, 21], causing cascading worldgen lag.
+[20:47:03] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[20:47:04] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mc_Abel lost connection: Disconnected
+[20:47:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel left the game
+[20:47:15] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:47:30] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 105 times.
+
+[20:47:30] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 105 times.
+
+[20:47:38] [Server thread/TRACE] [FML]: Handshake channel activating
+[20:47:38] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[20:47:38] [Server thread/DEBUG] [FML]:   Next: HELLO
+[20:47:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[20:47:39] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[20:47:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[20:47:39] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 58 mods : extendedrenderer@v1.0,mixinbooter@10.6,renderlib@1.4.5,creativecoredummy@1.0.0,wi-zoom@1.0,configmod@v1.0,loliasm@5.28,techguns_core@1.12.2-1.0,mcp@9.42,clumps@3.1.2,placebo@1.6.0,weather2@1.12.1-2.6.12,surge@2.0.77,foamfixcore@7.7.4,secretroomsmod@5.6.4,alfheim@1.6,mcwdoors@1.3,normalasm@5.28,minetraps@1.0.4,props@2.6.3.7,dynview@1.3,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,jjmeteor@1.0.10,redcore@0.7-Dev-1,minecraft@1.12.2,stackie@1.6.0.48,ptrmodellib@1.0.5,silentfullbright@1.0,creativecore@1.10.0,vehicle@0.44.1,srm-hooks@1.12.2-1.0.0,fermiumbooter@1.3.1,littletilescore@1.0.0,lunatriuscore@1.2.0.42,moreplayermodels@1.12.2,fastbench@1.7.4,securitycraft@v1.10,blockcraftery@1.12.2-1.3.1,performant@1.12.2-1.5,entityculling@@VER@,elevatorid@1.3.14,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,customnpcs@1.12,coroutil@1.12.1-1.2.37,worldedit@6.1.10,fastfurnace@1.3.1,cfm@6.3.0,motnt@1.0.1,mcwfurnitures@1.0.1,foamfix@@VERSION@,chiselsandbits@14.33,littletiles@1.5.0,techguns@2.0.2.0
+[20:47:39] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[20:47:39] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[20:47:39] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[20:47:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[20:47:44] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[20:47:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[20:47:44] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[20:47:44] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mc_Abel[/127.40.51.77:46299] logged in with entity id 25350 at (93.79189753187109, 89.0, 227.46423790773053)
+[20:47:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel joined the game
+[20:47:44] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[20:47:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Unknown command. Try /help for a list of commands
+[20:48:00] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:48:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Dim  0 (overworld) : Mean tick time: 4.773 ms. Mean TPS: 20.000
+[20:48:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Overall : Mean tick time: 6.419 ms. Mean TPS: 20.000
+[20:48:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 360 second at the coordinates:  x=-287 y=60 z=706
+[20:48:20] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 110 times.
+
+[20:48:20] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 110 times.
+
+[20:48:45] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:49:10] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 115 times.
+
+[20:49:10] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 115 times.
+

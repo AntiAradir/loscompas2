@@ -1,7 +1,7 @@
 {
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/redstone/noteblock": {
     "criteria": {
-      "has_planks": "2025-07-27 20:35:42 +0000"
+      "has_redstone": "2025-07-27 20:47:07 +0000"
     },
     "done": true
   },
@@ -11,9 +11,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/trapdoor": {
+  "minecraft:recipes/tools/clock": {
     "criteria": {
-      "has_planks": "2025-07-27 20:35:42 +0000"
+      "has_redstone": "2025-07-27 20:47:07 +0000"
     },
     "done": true
   },
@@ -23,21 +23,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/chest": {
+  "minecraft:recipes/tools/compass": {
     "criteria": {
-      "has_lots_of_items": "2025-07-27 20:32:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
-    "criteria": {
-      "has_planks": "2025-07-27 20:35:42 +0000"
-    },
-    "done": true
-  },
-  "cfm:install": {
-    "criteria": {
-      "tick": "2025-07-27 20:29:49 +0000"
+      "has_redstone": "2025-07-27 20:47:07 +0000"
     },
     "done": true
   },
@@ -53,15 +41,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/wooden_pressure_plate": {
+  "minecraft:recipes/redstone/piston": {
     "criteria": {
-      "has_planks": "2025-07-27 20:35:42 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-07-27 20:35:42 +0000"
+      "has_redstone": "2025-07-27 20:47:07 +0000"
     },
     "done": true
   },
@@ -71,9 +53,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/sign": {
+  "minecraft:recipes/decorations/red_banner": {
     "criteria": {
-      "has_planks": "2025-07-27 20:35:42 +0000"
+      "has_red_wool": "2025-07-27 20:46:47 +0000"
     },
     "done": true
   },
@@ -95,5 +77,83 @@
       "taiga_hills": "2025-07-27 20:30:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-27 20:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-27 20:32:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-07-27 20:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 20:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:35:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2025-07-27 20:29:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_bed": {
+    "criteria": {
+      "has_red_wool": "2025-07-27 20:46:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-27 20:47:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/wooden_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:35:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sign": {
+    "criteria": {
+      "has_planks": "2025-07-27 20:35:42 +0000"
+    },
+    "done": true
   }
 }

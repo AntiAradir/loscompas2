@@ -1,7 +1,37 @@
 {
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_log": "2025-07-27 20:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-07-27 20:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-07-27 20:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-07-27 20:47:54 +0000"
+    },
+    "done": true
+  },
   "cfm:root": {
     "criteria": {
       "tick": "2025-07-27 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-27 20:47:54 +0000"
     },
     "done": true
   },
@@ -16,5 +46,11 @@
       "taiga": "2025-07-27 20:25:57 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-07-27 20:47:54 +0000"
+    },
+    "done": true
   }
 }
