@@ -794,3 +794,13 @@ java.lang.NullPointerException: null
 [21:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The mod has failed to determine a point of impact, please decrease the minimum distance of crash from the player or reduce the prohibited areas
 [21:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Took all effects from MewingMan]
 [21:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Took all effects from Mc_Abel]
+[21:20:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Opped Mc_Abel]
+[21:21:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Opped MewingMan]
+[21:21:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mc_Abel: Set own game mode to Spectator Mode]
+[21:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mc_Abel: Set own game mode to Adventure Mode]
+[21:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel died from radiation poisoning.
+[21:21:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel has completed the challenge [Ouch, Radiation!]
+[21:21:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel has completed the challenge [Yay, Radiation!]
+[21:21:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel died from radiation poisoning.
+[21:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mc_Abel: Set own game mode to Creative Mode]
+[21:21:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mc_Abel moved too quickly! 7.936315657473784,1.1175929378491531,6.721577273649416
