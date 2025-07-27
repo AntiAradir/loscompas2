@@ -211,6 +211,12 @@
     },
     "done": true
   },
+  "cfm:minekea": {
+    "criteria": {
+      "get_chair_or_table": "2025-07-27 22:05:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-27 20:46:52 +0000"
@@ -244,6 +250,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-07-27 20:33:16 +0000"
+    },
+    "done": true
+  },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2025-07-27 21:49:42 +0000"
     },
     "done": true
   },

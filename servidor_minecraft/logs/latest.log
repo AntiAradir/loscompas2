@@ -805,3 +805,15 @@ java.lang.NullPointerException: null
 [21:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mc_Abel: Set own game mode to Creative Mode]
 [21:21:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mc_Abel moved too quickly! 7.936315657473784,1.1175929378491531,6.721577273649416
 [21:44:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 360 second at the coordinates:  x=604 y=70 z=-93
+[21:49:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan has made the advancement [Get Yourself Cleaned Up]
+[22:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mc_Abel> perdon estaba usando los datos
+[22:00:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mc_Abel> nah mentira ayuda wifi de mrd
+[22:00:33] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: Mc_Abel lost connection: Disconnected
+[22:00:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel left the game
+[22:00:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <AntiAlther> eso es un grito de ayuda
+[22:00:53] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[22:00:53] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 58 mods : extendedrenderer@v1.0,mixinbooter@10.6,renderlib@1.4.5,creativecoredummy@1.0.0,wi-zoom@1.0,configmod@v1.0,loliasm@5.28,techguns_core@1.12.2-1.0,mcp@9.42,clumps@3.1.2,placebo@1.6.0,weather2@1.12.1-2.6.12,surge@2.0.77,foamfixcore@7.7.4,secretroomsmod@5.6.4,alfheim@1.6,mcwdoors@1.3,normalasm@5.28,minetraps@1.0.4,props@2.6.3.7,dynview@1.3,fpsreducer@mc1.12.2-1.20,hbm@hbm-1.8.4a-G,forge@14.23.5.2860,mysticallib@1.12.2-1.13.0,jjmeteor@1.0.10,redcore@0.7-Dev-1,minecraft@1.12.2,stackie@1.6.0.48,ptrmodellib@1.0.5,silentfullbright@1.0,creativecore@1.10.0,vehicle@0.44.1,srm-hooks@1.12.2-1.0.0,fermiumbooter@1.3.1,littletilescore@1.0.0,lunatriuscore@1.2.0.42,moreplayermodels@1.12.2,fastbench@1.7.4,securitycraft@v1.10,blockcraftery@1.12.2-1.3.1,performant@1.12.2-1.5,entityculling@@VER@,elevatorid@1.3.14,FML@8.0.99.99,obfuscate@0.4.2,farsight@1.6,customnpcs@1.12,coroutil@1.12.1-1.2.37,worldedit@6.1.10,fastfurnace@1.3.1,cfm@6.3.0,motnt@1.0.1,mcwfurnitures@1.0.1,foamfix@@VERSION@,chiselsandbits@14.33,littletiles@1.5.0,techguns@2.0.2.0
+[22:00:57] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[22:00:57] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: Mc_Abel[/127.202.151.37:35283] logged in with entity id 1284475 at (189.37682687514777, 99.0, 308.4684267244512)
+[22:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel joined the game
+[22:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan has made the advancement [MineKea]
