@@ -804,3 +804,4 @@ java.lang.NullPointerException: null
 [21:21:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel died from radiation poisoning.
 [21:21:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [Mc_Abel: Set own game mode to Creative Mode]
 [21:21:48] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mc_Abel moved too quickly! 7.936315657473784,1.1175929378491531,6.721577273649416
+[21:44:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: a meteor crashes to the ground in 360 second at the coordinates:  x=604 y=70 z=-93
