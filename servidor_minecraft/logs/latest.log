@@ -818,3 +818,6 @@ java.lang.NullPointerException: null
 [22:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel joined the game
 [22:05:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan has made the advancement [MineKea]
 [22:18:40] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft]: Player "Mc_Abel" tried to enter a passcode into "Keypad Door" at position [OVERWORLD BlockPos{x=204, y=103, z=310}] too quickly!
+[22:35:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The mod has failed to determine a point of impact, please decrease the minimum distance of crash from the player or reduce the prohibited areas
+[22:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Spectator Mode]
+[22:36:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Creative Mode]

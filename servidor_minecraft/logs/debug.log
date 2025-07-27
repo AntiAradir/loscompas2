@@ -32630,3 +32630,67 @@ java.lang.NullPointerException: null
 [22:29:34] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 715 times.
 
 [22:29:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:30:24] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 720 times.
+
+[22:30:24] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 720 times.
+
+[22:30:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:31:14] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 725 times.
+
+[22:31:14] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 725 times.
+
+[22:31:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:32:04] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 730 times.
+
+[22:32:04] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 730 times.
+
+[22:32:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:32:54] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 735 times.
+
+[22:32:54] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 735 times.
+
+[22:33:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:33:44] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 740 times.
+
+[22:33:44] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 740 times.
+
+[22:34:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:34:34] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 745 times.
+
+[22:34:34] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 745 times.
+
+[22:34:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:35:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The mod has failed to determine a point of impact, please decrease the minimum distance of crash from the player or reduce the prohibited areas
+[22:35:24] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 750 times.
+
+[22:35:24] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 750 times.
+
+[22:35:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:36:04] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Spectator Mode]
+[22:36:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Creative Mode]
+[22:36:14] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 755 times.
+
+[22:36:14] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 755 times.
+
+[22:36:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:04] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 760 times.
+
+[22:37:04] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 760 times.
+
+[22:37:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:37:54] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 765 times.
+
+[22:37:54] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 765 times.
+
+[22:37:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:38:44] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 770 times.
+
+[22:38:44] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 770 times.
+
+[22:39:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[22:39:34] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 775 times.
+
+[22:39:34] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 775 times.
+
