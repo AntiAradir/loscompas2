@@ -114,9 +114,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-27 21:06:56 +0000"
+    },
+    "done": true
+  },
   "cfm:install": {
     "criteria": {
       "tick": "2025-07-27 20:30:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_red_flower": "2025-07-27 21:00:49 +0000"
     },
     "done": true
   },
@@ -153,6 +165,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2025-07-27 20:37:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-07-27 21:06:47 +0000"
     },
     "done": true
   },

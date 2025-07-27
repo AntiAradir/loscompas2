@@ -31894,3 +31894,269 @@ java.lang.NullPointerException: null
 
 [20:58:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [20:59:08] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was shot by Skeleton Soldier
+[20:59:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Teleported AntiAlther to Mc_Abel]
+[20:59:34] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 175 times.
+
+[20:59:34] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 175 times.
+
+[20:59:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[20:59:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was shot by Skeleton Soldier
+[21:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan was shot by Zombie Soldier
+[21:00:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was slain by Zombie Miner
+[21:00:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mc_Abel> mas bostero que matar al amigo
+[21:00:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Teleported AntiAlther to MewingMan]
+[21:00:24] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 180 times.
+
+[21:00:24] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 180 times.
+
+[21:00:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:00:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan was shot by AntiAlther
+[21:00:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was shot by AntiAlther
+[21:00:50] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was slain by Zombie Miner
+[21:00:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was shot by Skeleton Soldier
+[21:00:59] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Teleported MewingMan to AntiAlther]
+[21:01:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan was shot by Skeleton Soldier
+[21:01:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MewingMan was shot by Skeleton Soldier
+[21:01:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:01:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set the time to 0]
+[21:01:14] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 185 times.
+
+[21:01:14] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 185 times.
+
+[21:01:21] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was shot by Zombie Soldier
+[21:01:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set game difficulty to Peaceful]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.leather]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.redstone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.ingotIron]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.rottenFlesh]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.redstone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bread]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.ingotIron]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.redstone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.frame]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.leather]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.coal]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.apple]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.apple]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.techguns.heavycloth]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.leather]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.arrow]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.arrow]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.sulphur]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.sapling.spruce]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.porkchopRaw]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.arrow]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.bone]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.doublePlant.rose]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.flower1.dandelion]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.torch]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.item.egg]
+[21:01:36] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Killed item.tile.rail]
+[21:01:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:04] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 190 times.
+
+[21:02:04] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 190 times.
+
+[21:02:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:02:54] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 195 times.
+
+[21:02:54] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 195 times.
+
+[21:03:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:03:44] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 200 times.
+
+[21:03:44] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 200 times.
+
+[21:03:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Survival Mode]
+[21:04:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:04:34] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 205 times.
+
+[21:04:34] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 205 times.
+
+[21:04:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:05:02] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mc_Abel> gay el que me pegue
+[21:05:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MewingMan> no juego
+[21:05:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <Mc_Abel> gay el que no juega}
+[21:05:24] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 210 times.
+
+[21:05:24] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 210 times.
+
+[21:05:29] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MewingMan> no participo
+[21:05:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:06:09] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: Mc_Abel moved wrongly!
+[21:06:14] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 215 times.
+
+[21:06:14] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 215 times.
+
+[21:06:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:04] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 220 times.
+
+[21:07:04] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 220 times.
+
+[21:07:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:07:54] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 225 times.
+
+[21:07:54] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 225 times.
+
+[21:07:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Mc_Abel was slain by MewingMan
+[21:08:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:08:44] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 230 times.
+
+[21:08:44] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 230 times.
+
+[21:09:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:09:34] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 235 times.
+
+[21:09:34] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 235 times.
+
+[21:09:37] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Creative Mode]
+[21:10:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:10:13] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Cleared the inventory of MewingMan, removing 18 items]
+[21:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set own game mode to Creative Mode]
+[21:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set MewingMan's game mode to Creative Mode]
+[21:10:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set Mc_Abel's game mode to Creative Mode]
+[21:10:24] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 240 times.
+
+[21:10:24] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 240 times.
+
+[21:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set AntiAlther's spawn point to (163, 113, 214)]
+[21:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set Mc_Abel's spawn point to (163, 113, 214)]
+[21:10:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Set MewingMan's spawn point to (163, 113, 214)]
+[21:10:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:11:14] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 245 times.
+
+[21:11:14] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 245 times.
+
+[21:11:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:04] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 250 times.
+
+[21:12:04] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 250 times.
+
+[21:12:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:12:52] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <MewingMan> la de bunker es buena
+[21:12:54] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 255 times.
+
+[21:12:54] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 255 times.
+
+[21:13:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:13:44] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 260 times.
+
+[21:13:44] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 260 times.
+
+[21:13:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:14:34] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 265 times.
+
+[21:14:34] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 265 times.
+
+[21:14:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:24] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 270 times.
+
+[21:15:24] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 270 times.
+
+[21:15:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:15:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: The mod has failed to determine a point of impact, please decrease the minimum distance of crash from the player or reduce the prohibited areas
+[21:16:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:16:14] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 275 times.
+
+[21:16:14] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 275 times.
+
+[21:16:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:04] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 280 times.
+
+[21:17:04] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 280 times.
+
+[21:17:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:17:54] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 285 times.
+
+[21:17:54] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 285 times.
+
+[21:18:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[21:18:44] [Server thread/DEBUG] [FML]: The world 3eaaf73c (world) may have leaked: seen 290 times.
+
+[21:18:44] [Server thread/DEBUG] [FML]: The world 14b3a5c3 (world) may have leaked: seen 290 times.
+
+[21:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Took all effects from MewingMan]
+[21:18:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [AntiAlther: Took all effects from Mc_Abel]
+[21:19:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

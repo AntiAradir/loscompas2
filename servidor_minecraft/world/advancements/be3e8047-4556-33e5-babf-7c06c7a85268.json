@@ -11,11 +11,17 @@
     },
     "done": true
   },
-  "minecraft:husbandry/balanced_diet": {
+  "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
-      "porkchop": "2025-07-27 20:57:40 +0000"
+      "has_log": "2025-07-27 21:15:58 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-27 21:01:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
@@ -28,6 +34,24 @@
       "consumed_item": "2025-07-27 20:57:40 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-07-27 21:17:54 +0000"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2025-07-27 20:25:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "porkchop": "2025-07-27 20:57:40 +0000"
+    },
+    "done": false
   },
   "minecraft:adventure/root": {
     "criteria": {
@@ -50,12 +74,6 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-07-27 20:47:54 +0000"
-    },
-    "done": true
-  },
-  "cfm:install": {
-    "criteria": {
-      "tick": "2025-07-27 20:25:57 +0000"
     },
     "done": true
   },
